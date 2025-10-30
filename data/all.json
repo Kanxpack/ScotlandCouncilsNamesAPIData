@@ -1,0 +1,130 @@
+[
+  {
+    "id": "1",
+    "name": "Aberdeen City Council"
+  },
+  {
+    "id": "2",
+    "name": "Aberdeenshire Council"
+  },
+  {
+    "id": "3",
+    "name": "Angus Council"
+  },
+  {
+    "id": "4",
+    "name": "Argyll and Bute Council"
+  },
+  {
+    "id": "5",
+    "name": "City of Edinburgh Council"
+  },
+  {
+    "id": "6",
+    "name": "Clackmannanshire Council"
+  },
+  {
+    "id": "7",
+    "name": "Comhairle nan Eilean Siar"
+  },
+  {
+    "id": "8",
+    "name": "Dumfries and Galloway Council"
+  },
+  {
+    "id": "9",
+    "name": "Dundee City Council"
+  },
+  {
+    "id": "10",
+    "name": "East Ayrshire Council"
+  },
+  {
+    "id": "11",
+    "name": "East Dunbartonshire Council"
+  },
+  {
+    "id": "12",
+    "name": "East Lothian Council"
+  },
+  {
+    "id": "13",
+    "name": "East Renfrewshire Council"
+  },
+  {
+    "id": "14",
+    "name": "Falkirk Council"
+  },
+  {
+    "id": "15",
+    "name": "Fife Council"
+  },
+  {
+    "id": "16",
+    "name": "Glasgow City Council"
+  },
+  {
+    "id": "17",
+    "name": "Highland Council"
+  },
+  {
+    "id": "18",
+    "name": "Inverclyde Council"
+  },
+  {
+    "id": "19",
+    "name": "Midlothian Council"
+  },
+  {
+    "id": "20",
+    "name": "Moray Council"
+  },
+  {
+    "id": "21",
+    "name": "North Ayrshire Council"
+  },
+  {
+    "id": "22",
+    "name": "North Lanarkshire Council"
+  },
+  {
+    "id": "23",
+    "name": "Orkney Islands Council"
+  },
+  {
+    "id": "24",
+    "name": "Perth and Kinross Council"
+  },
+  {
+    "id": "25",
+    "name": "Renfrewshire Council"
+  },
+  {
+    "id": "26",
+    "name": "Scottish Borders Council"
+  },
+  {
+    "id": "27",
+    "name": "Shetland Islands Council"
+  },
+  {
+    "id": "28",
+    "name": "South Ayrshire Council"
+  },
+  {
+    "id": "29",
+    "name": "South Lanarkshire Council"
+  },
+  {
+    "id": "30",
+    "name": "Stirling Council"
+  },
+  {
+    "id": "31",
+    "name": "West Dunbartonshire Council"
+  },
+  {
+    "id": "32",
+    "name": "West Lothian Council"
+  }
+]
